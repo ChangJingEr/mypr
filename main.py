@@ -1,1 +1,4 @@
-print("Hello GitHub from VS Code!")
+def greet(name):
+    return f"Hello, {name} from VS Code!"
+
+print(greet("ChangJingEr"))
